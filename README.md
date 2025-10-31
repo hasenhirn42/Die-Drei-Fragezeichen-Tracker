@@ -2,9 +2,9 @@
 Excel-Tool zum Tracken und Bewerten aller "Die Drei ???"-Folgen.
 
 Funktionen
-- Folgenliste (+ fast alle Specials) mit Titel, Erscheinungsjahr, Länge, Notizen und Autor*innen
+- Folgenliste mit Titel, Erscheinungsjahr, Länge, Notizen und Autor*innen
 - Checkboxen für "gehört" und "Favoriten"
-- Automatische Statistik (Gesamtlänge, Bewertungen, Fortschritt...
+- Automatische Statistik 
 
 ## Download
 👉 **[Hier klicken, um die Excel-Datei herunterzuladen](./Die%20Drei%20Fragezeichen_Tracker.xlsx)**
