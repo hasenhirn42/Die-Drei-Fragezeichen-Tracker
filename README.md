@@ -15,5 +15,5 @@ Die Datei ist lokal nutzbar, ohne Makros. Auf Mobilgeräten funktionieren einige
 Gerne dürft ihr die Datei kopieren, individualisieren und teilen - ich würde mich aber freuen, wenn ihr erwähnt wo ihr sie herhabt und ggf. credits gebt.
 Dieses Projekt ist ein reines Fan-Projekt und steht in keinem offiziellen Zusammenhang mit EUROPA oder den ursprünglichen Rechteinhabern.
 
-Für Diskussionen, Feedback und Ideen kann man mir gerne eine DM schicken (u/hasenhirn42), unter dem Reddit-Post kommentieren, oder selbst die heruntergeladene Datei individualisieren.
+Für Diskussionen, Feedback und Ideen kann man mir gerne eine DM schicken (u/hasenhirn42), unter dem Reddit-Post kommentieren, oder einfach selbst die heruntergeladene Datei individualisieren.
 Viel Spaß beim Hören und Tracken! ^^
