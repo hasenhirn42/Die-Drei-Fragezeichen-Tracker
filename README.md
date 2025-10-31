@@ -6,10 +6,14 @@ Funktionen
 - Checkboxen für "gehört" und "Favoriten"
 - Automatische Statistik (Gesamtlänge, Bewertungen, Fortschritt...
 
-Download
-👉 [Hier klicken, um die Datei herunterzuladen](./DieDreiFragezeichen_Tracker.xlsx)
+## Download
+👉 **[Hier klicken, um die Excel-Datei herunterzuladen](./Die%20Drei%20Fragezeichen_Tracker.xlsx)**
 
-Die Datei ist lokal nutzbar, ohne Makros. Auf Mobilgeräten funktionieren einige der Funktionen leider nicht. 
+## Hinweise
+Die Spalten W-Z sind Hilfsspalten für die Statistik, darin also am besten nichts selbst hinzufügen.
+Die Datei ist lokal nutzbar, ohne Makros. Auf Mobilgeräten funktionieren einige der Funktionen leider nicht.
+Gerne dürft ihr die Datei kopieren, individualisieren und teilen - ich würde mich aber freuen, wenn ihr erwähnt wo ihr sie herhabt und ggf. credits gebt.
+Dieses Projekt ist ein reines Fan-Projekt und steht in keinem offiziellen Zusammenhang mit EUROPA oder den ursprünglichen Rechteinhabern.
 
-Für Verbesserungsvorschläge kann man mir gerne eine DM schicken (u/hasenhirn42) oder selbst die heruntergeladene Datei individualisieren.
+Für Diskussionen, Feedback und Ideen kann man mir gerne eine DM schicken (u/hasenhirn42), unter dem Reddit-Post kommentieren, oder selbst die heruntergeladene Datei individualisieren.
 Viel Spaß beim Hören und Tracken! ^^
